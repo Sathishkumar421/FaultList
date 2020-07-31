@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ControlApp</string>
+    <string name="open">Open</string>
+    <string name="navigation_menu">navigation_menu\\</string>
+    <string name="drop_down">drop_down</string>
+    <string name="search">search</string>
+    <string name="log_in">Log In</string>
+    <string name="settings">Settings</string>
+    <string name="profile">Profile</string>
+    <string name="compose">Compose</string>
+    <string name="log_out">log_out</string>
+    <string name="logout">Log Out</string>
+    <string name="Setting">Settings</string>
+    <string name="location">Location</string>
+    <string name="acropolis_block_b">Acropolis BLock B</string>
+    <string name="_2_days_ago">2 days ago</string>
+    <string name="acropolis_blockb">Acropolis Block B</string>
+</resources>
